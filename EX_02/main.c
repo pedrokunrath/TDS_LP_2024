@@ -6,7 +6,7 @@ int main() {
     int valor2 = 'B';
     float valor3 = 'C';
     double valor4 = 'D';
-    
+    //
     // VALORES 
     printf("valor1 %c\n", valor1);
     printf("valor2 %d\n", valor2);
