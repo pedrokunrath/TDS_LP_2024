@@ -17,8 +17,6 @@ int main() {
             printf("%d x %d = %d\n", i, j, resultado);
             soma += resultado;
         }
-
-
         resultados[i - 1] = soma;
 
         printf("Soma: %d\n", soma);
