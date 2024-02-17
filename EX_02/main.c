@@ -1,5 +1,13 @@
 #include <stdio.h>
 
+/**
+ * @brief This is the main function of the program.
+ * 
+ * This function demonstrates the declaration and initialization of variables of different data types,
+ * printing their values, and taking user input.
+ * 
+ * @return int The exit status of the program.
+ */
 int main() {
     // DECLARAÇÃO DAS VARIÁVEIS 
     char valor1 = 'A';
@@ -22,5 +30,4 @@ int main() {
     printf("Resultado e: %d", ValorDigitado);
 
     return 0;
-
 }

@@ -30,7 +30,7 @@ int main() {
     printf("Bem-vindo ao jogo de combate!\n");
 
     while (heroi.hp > 0 && inimigo.hp > 0) {
-        printf("\nHeroi:\n");]
+        printf("\nHeroi:\n");
         imprimirStatus(heroi);
 
         printf("\nInimigo:\n");
